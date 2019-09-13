@@ -2,10 +2,14 @@
 
 Projeto básico de iniciativa para estudos de uma equipe de QA's.
 
-# [Ambiente]:
+# [Ferramentas e Tecnologias]:
+_Windows 10;
+_Visual Studio 2017;
+_C#;
 
 # [Frameworks]:
-
+_.NET Core 2.0;
+_XUnit 3.0;
 
 # [Escopo do Projeto]:
 
