@@ -42,13 +42,13 @@ _ ano;
 _ marca;
 _ qtePortas;
 
-- LOCACAO
+- LOCACAO       
 _ dataEntrada;
 _ dataSaida;
 _ cpf (FK);
 _ placa (PF);
 
-- PESSOA
+- PESSOA        
 _ cpf (PK);
 _ nome;
 _ dataNasc;
