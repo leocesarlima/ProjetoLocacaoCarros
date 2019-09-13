@@ -47,6 +47,7 @@ _ qtePortas;
 _ numLocacao (PK)
 _ dataEntrada;
 _ dataSaida;
+_ valorLocacao;
 _ cpf (FK);
 _ placa (FK);
 
@@ -56,3 +57,9 @@ _ nome;
 _ dataNasc;
 _ fumante (s/n);
 _ sexo (masc/fem);
+
+- TABELAPRECOS    
+_ qtePortas (FK);
+_ temAr (s/n) (FK);
+_ valorDiaria
+
