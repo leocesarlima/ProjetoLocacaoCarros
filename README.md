@@ -36,13 +36,14 @@ Dados importantes:
 
 # [Diagrama de Classe UML]:
 - CARRO                        
-_ placa (PK);
+_ numPlaca (PK);
 _ temArCond (s/n);
 _ ano;
 _ marca;
 _ qtePortas;
 
 - LOCACAO       
+_ numLocacao (PK)
 _ dataEntrada;
 _ dataSaida;
 _ cpf (FK);
