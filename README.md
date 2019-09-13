@@ -34,6 +34,7 @@ Dados importantes:
 - Valor da diária para carro 4 portas sem ar: R$ 160,00
 - Valor da diária para carr0 4 portas com ar: R$ 180,00
 - Será cobrada uma multa de R$ 200 reais por dia de atraso na devolução
+- Clientes menores de 18 anos não podem alugar um carro
 
 # [UML - Diagrama de Classe]:
 - CARRO                        
