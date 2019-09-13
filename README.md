@@ -1,6 +1,13 @@
 # ProjetoLocacaoCarros
 
-Projeto para estudar com o time lógica de programação e testes automatizados
+Projeto básico de iniciativa para estudos de uma equipe de QA's.
+
+# [Ambiente]:
+
+# [Frameworks]:
+
+
+# [Escopo do Projeto]:
 
 Preciso de uma aplicação para controlar o aluguel de carros da minha empresa.
 
@@ -18,3 +25,7 @@ Dados importantes:
 - Valor da diária para carro 2 portas com ar: R$ 120,00
 - Valor da diária para carro 4 portas sem ar: R$ 160,00
 - Valor da diária para carr0 4 portas com ar: R$ 180,00
+
+# [Diagrama de Classe UML]:
+
+# [Conceitos/Metodologia]:
