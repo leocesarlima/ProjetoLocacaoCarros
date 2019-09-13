@@ -37,7 +37,7 @@ Dados importantes:
 # [UML - Diagrama de Classe]:
 - CARRO                        
 _ numPlaca (PK);
-_ temArCond (s/n);
+_ temAr (s/n);
 _ ano;
 _ marca;
 _ qtePortas;
@@ -47,7 +47,7 @@ _ numLocacao (PK)
 _ dataEntrada;
 _ dataSaida;
 _ cpf (FK);
-_ placa (PF);
+_ placa (FF);
 
 - PESSOA        
 _ cpf (PK);
