@@ -33,6 +33,7 @@ Dados importantes:
 - Valor da diária para carro 2 portas com ar: R$ 120,00
 - Valor da diária para carro 4 portas sem ar: R$ 160,00
 - Valor da diária para carr0 4 portas com ar: R$ 180,00
+- Será cobrada uma multa de R$ 200 reais por dia de atraso na devolução
 
 # [UML - Diagrama de Classe]:
 - CARRO                        
@@ -47,7 +48,7 @@ _ numLocacao (PK)
 _ dataEntrada;
 _ dataSaida;
 _ cpf (FK);
-_ placa (FF);
+_ placa (FK);
 
 - PESSOA        
 _ cpf (PK);
