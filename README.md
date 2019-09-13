@@ -2,19 +2,6 @@
 
 Projeto básico de iniciativa para estudos de uma equipe de QA's.
 
-# [Ferramentas e Tecnologias]:
-_Windows 10;
-_Visual Studio 2017;
-_C#;
-
-# [Conceitos/Metodologias]:
-_TDD;
-_BDD:
-
-# [Frameworks]:
-_.NET Core 2.0;
-_XUnit 2.4.1;
-
 # [Escopo do Projeto]:
 
 Preciso de uma aplicação para controlar o aluguel de carros da minha empresa.
@@ -35,31 +22,3 @@ Dados importantes:
 - Valor da diária para carr0 4 portas com ar: R$ 180,00
 - Será cobrada uma multa de R$ 200 reais por dia de atraso na devolução
 - Clientes menores de 18 anos não podem alugar um carro
-
-# [UML - Diagrama de Classe]:
-- CARRO                        
-_ numPlaca (PK);
-_ temAr (s/n);
-_ ano;
-_ marca;
-_ qtePortas;
-
-- LOCACAO       
-_ numLocacao (PK)
-_ dataEntrada;
-_ dataSaida;
-_ valorLocacao;
-_ cpf (FK);
-_ placa (FK);
-
-- PESSOA        
-_ cpf (PK);
-_ nome;
-_ dataNasc;
-_ fumante (s/n);
-_ sexo (masc/fem);
-
-- TABELAPRECOS    
-_ qtePortas (FK);
-_ temAr (s/n) (FK);
-_ valorDiaria
