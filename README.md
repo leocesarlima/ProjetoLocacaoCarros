@@ -33,12 +33,12 @@ Dados importantes:
 - Valor da diária para carr0 4 portas com ar: R$ 180,00
 
 # [Diagrama de Classe UML]:
-CARRO             LOCACAO           PESSOA
-placa             dataEntrada       cpf
-temArCond (s/n)   dataSaida         nome
-ano               cpf (FK)          data_nasc
-marca             placa (PF)        fumante (s/n)
-qtePortas                           sexo (masc/fem)
+- CARRO             LOCACAO           PESSOA
+- placa             dataEntrada       cpf
+- temArCond (s/n)   dataSaida         nome
+- ano               cpf (FK)          data_nasc
+- marca             placa (PF)        fumante (s/n)
+- qtePortas                           sexo (masc/fem)
                            
 
 # [Conceitos/Metodologia]:
