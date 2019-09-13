@@ -34,7 +34,7 @@ Dados importantes:
 - Valor da diária para carro 4 portas sem ar: R$ 160,00
 - Valor da diária para carr0 4 portas com ar: R$ 180,00
 
-# [Diagrama de Classe UML]:
+# [UML - Diagrama de Classe]:
 - CARRO                        
 _ numPlaca (PK);
 _ temArCond (s/n);
