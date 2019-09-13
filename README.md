@@ -13,7 +13,7 @@ _BDD:
 
 # [Frameworks]:
 _.NET Core 2.0;
-_XUnit 3.0;
+_XUnit 2.4.1;
 
 # [Escopo do Projeto]:
 
