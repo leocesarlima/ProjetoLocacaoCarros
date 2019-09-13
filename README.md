@@ -6,6 +6,8 @@ Projeto básico de iniciativa para estudos de uma equipe de QA's.
 _Windows 10;
 _Visual Studio 2017;
 _C#;
+
+# [Conceitos/Metodologias]:
 _TDD;
 _BDD:
 
@@ -34,23 +36,21 @@ Dados importantes:
 
 # [Diagrama de Classe UML]:
 - CARRO                        
-* placa (PK)                
-* temArCond (s/n)            
-* ano                    
-* marca                    
-* qtePortas                           
+_ placa (PK)                
+_ temArCond (s/n)            
+_ ano                    
+_ marca                    
+_ qtePortas                           
 
 - LOCACAO
-- dataEntrada
-- dataSaida
-- cpf (FK)
-- placa (PF)
+_ dataEntrada
+_ dataSaida
+_ cpf (FK)
+_ placa (PF)
 
 - PESSOA
-- cpf (PK)
-- nome
-- dataNasc
-- fumante (s/n)
-- sexo (masc/fem)
-
-# [Conceitos/Metodologia]:
+_ cpf (PK)
+_ nome
+_ dataNasc
+_ fumante (s/n)
+_ sexo (masc/fem)
